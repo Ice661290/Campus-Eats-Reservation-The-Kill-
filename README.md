@@ -1,4 +1,4 @@
-# Canteen Food Queue Booking System (The Kill)
+# Canteen Queue Reservation System (The Kill)
 
 A web application designed to facilitate food ordering and queue management within the canteen of Huachiew Chalermprakiet University. It features an intuitive user interface for students and staff to order food in advance, along with a dedicated dashboard for vendors to manage orders efficiently.
 
